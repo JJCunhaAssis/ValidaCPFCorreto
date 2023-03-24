@@ -1,1 +1,1 @@
-# Verifica se o CPF.
+# Verifica se o CPF é válido ou inválido.
